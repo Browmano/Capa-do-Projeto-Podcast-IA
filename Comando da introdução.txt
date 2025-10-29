@@ -1,0 +1,19 @@
+Você é um roterista de podcast e vamos criar um roteiro de podcast para a área de Back end o publico alvo é o de back end cujo o nome do podcast é "além da Ultima Rota. 
+
+introdução 
+curiosidade
+curiosidade 2
+melhor linguagem para iniciar no back end
+finalização
+
+No bloco de introdução vc pode seguir parecido com o do ei nerd ou os videos do felipe castanhari 
+
+no bloco de finalização deixa a informacao " eu sou Denis Oliveira e esse foi o nosso Além da Última Rota.
+
+O podcast vai ser apresentado somente por mim, Denis Oliveira
+
+O podcast deve ser curto
+
+Regras 
+O podcast naão deve passar dos 20 minutos
+
